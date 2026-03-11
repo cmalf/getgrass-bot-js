@@ -3,14 +3,14 @@
 ## GetGrass Season 2 mining
 
 - A Node.js bot script to automate grass Season 2 mining.
-
+<!--
 [tg-clk]: https://t.me/+1C6KHwq4HWE4OThl
 [tg-c]: https://img.shields.io/badge/Telegram_Channel:-The_Digital_Alchemist_(CMALF)-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=blue
 [tg-g]: https://img.shields.io/badge/Telegram_Group:-TDA_(CMALF)_Chat-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=gold
 [tg-glk]: https://t.me/+O_0eLwojWD03MDU1
 
 [![tg-clk][tg-c]][tg-clk] <br> [![tg-glk][tg-g]][tg-glk]
-
+-->
 ## ⛩ Release Table
 
 | Bot Version | Status(Work/Not/(N/A) ) |
